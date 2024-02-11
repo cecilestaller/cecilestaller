@@ -14,6 +14,8 @@ True to the motto: "Eat, Code, Sleep, Repeat"
 - JavaScript
 - react.js
 - node.js
+- express.js
+- MongoDB
 
 ## Plus-Skills 🏓
 
