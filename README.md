@@ -1,10 +1,10 @@
 ### Hi there 🧘‍♀️🏄‍♀️🌅
 
-I'm Cecile and I'm currently taking part in a Fullstack Web Developer Bootcamp at SuperCode. During the last four months I have been able to gain extensive knowledge in HTML, CSS and JavaScript by planning and implementing projects every day, either in a team or on my own. When we started working with the React framework, the websites became more dynamic and responsive. 
+I'm Cecile and during the last 6,5 months I have been taking part in a Fullstack Web Developer Bootcamp at SuperCode and able to gain extensive knowledge in HTML, CSS and JavaScript by planning and implementing projects every day, either in a team or on my own. When we started working with the React framework, the websites became more dynamic and responsive. 
 
-I have already successfully completed the frontend part of the bootcamp, I am looking forward to the next three months where we will get into the backend and thus also into node.js, express.js and MongoDB. 
+I completed the frontend part of the bootcamp, which included topics such as JavaScript, React.js, Git, REST API and SCRUM, with an e-shop project at the end of December. We then moved on to the backend, focusing on Node.js, Express.js and MongoDB, which was incredibly fun and enabled me to implement full-stack projects. A week ago, I reached the first milestone of my journey, as we presented the result of our two-week final project, an event platform (EventPilot), in front of a large audience and received our certificates.
 
-After the bootcamp, I would like to further expand my skills in web development and realize interesting projects with like-minded people. 👯
+Now I would like to further expand my skills in web development and realize interesting projects with like-minded people. 👯
 True to the motto: "Eat, Code, Sleep, Repeat"
 
 ## Tech-Stack 👩‍💻
